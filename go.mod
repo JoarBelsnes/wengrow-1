@@ -1,3 +1,3 @@
-module github.com/digitnow/wengrow
+module github.com/joarbelsnes/wengrow-1
 
 go 1.17

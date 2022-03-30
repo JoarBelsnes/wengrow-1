@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/digitnow/wengrow/aen"
+	"github.com/joarbelsnes/wengrow-1/aen"
 )
 
 func main() {
